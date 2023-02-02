@@ -1,7 +1,7 @@
-# Purpose
+# Ixalan - Movie ticket booking app for Android
 ---
 
-Ixalan aims at providing movie tickets at cheap and affordable prices. This application was developed as part of COMP 3350: Software Engineering 1.
+This application was developed as part of COMP 3350: Software Engineering 1. Ixalan aims at providing movie tickets at cheap and affordable prices.
 It also comes with an easy-to-use app through which you can conveniently book tickets, buy merchandise and even earn loyalty points!
 
 Our Application can provide you with a one stop shop for all your movie viewing needs and movie related memorabila. 
