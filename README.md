@@ -29,36 +29,36 @@ Registered users can accumulate points by making more purchases in-app.
 # Branching strategy
 ---
 
-Find our branching strategy [here](https://code.cs.umanitoba.ca/3350-winter-2021-a01/group-3/-/blob/master/Doc/Branching_Strategy.md)
+Find our branching strategy [here](https://github.com/mrinalmanagoli/Movie-ticket-booking/blob/master/Doc/Branching_Strategy.md)
 
 # Worksheet 3
 ---
 
-Find our filled-out worksheet for Iteration 3 [here](https://code.cs.umanitoba.ca/3350-winter-2021-a01/group-3/-/blob/master/Doc/i3_worksheet.md).
+Find our filled-out worksheet for Iteration 3 [here](https://github.com/mrinalmanagoli/Movie-ticket-booking/blob/master/Doc/i3_worksheet.md).
 
 # Presentation
 ---
 
-The website for the presentation of our app can be found [here](https://code.cs.umanitoba.ca/3350-winter-2021-a01/group-3/-/tree/master/Website).
+The website for the presentation of our app can be found [here](https://github.com/mrinalmanagoli/Movie-ticket-booking/tree/master/Website).
 
 # Vision
 ---
 
-Find our vision statement [here](https://code.cs.umanitoba.ca/3350-winter-2021-a01/group-3/-/blob/master/Doc/VISION.MD).
+Find our vision statement [here](https://github.com/mrinalmanagoli/Movie-ticket-booking/blob/master/Doc/VISION.MD).
 
 # Retrospective
 ---
 
-Find our final retrospective [here](https://code.cs.umanitoba.ca/3350-winter-2021-a01/group-3/-/blob/master/Doc/RETROSPECTIVE.md).
+Find our final retrospective [here](https://github.com/mrinalmanagoli/Movie-ticket-booking/blob/master/Doc/RETROSPECTIVE.MD).
 
 # Architecture
 ---
 
-Find our architecture document [here](https://code.cs.umanitoba.ca/3350-winter-2021-a01/group-3/-/blob/master/Doc/Architecture_I3.png).
+Find our architecture document [here](https://github.com/mrinalmanagoli/Movie-ticket-booking/blob/master/Doc/Architecture_I3.png).
 
 # Velocity
 ---
 
-Find out project velocity chart [here](https://code.cs.umanitoba.ca/3350-winter-2021-a01/group-3/-/blob/master/Doc/Velocity_Chart.png).
+Find out project velocity chart [here](https://github.com/mrinalmanagoli/Movie-ticket-booking/blob/master/Doc/Velocity_Chart.png).
 
-**All documents pertaining to our project can be found [here](https://code.cs.umanitoba.ca/3350-winter-2021-a01/group-3/-/tree/master/Doc).**
+**All documents pertaining to our project can be found [here](https://github.com/mrinalmanagoli/Movie-ticket-booking/blob/master/Doc/).**
